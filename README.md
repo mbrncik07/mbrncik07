@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbrncik07
 - 👀 I’m interested in ... Computer Science, and Ethical Hacking.
-- 🌱 I’m currently learning ... Java, SQL, Python
+- 🌱 I’m currently learning ... Java, SQL, Python, C, and C++
 - 📫 How to reach me ... businessbozic7@gmail.com
 
 <!---
